@@ -1,0 +1,153 @@
+@media only screen and  (max-width: 768px) {
+   .logo{
+        margin-left: 0px !important;
+        text-align: center !important;  
+    }
+
+    .logo span{
+        text-align: center;
+    }
+
+    .logo svg{
+        display: block !important; 
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 12px !important; 
+    }
+
+    .rounded{
+        display: none;
+    }
+    
+    .main{  
+        margin-top: 30px !important;
+    }
+
+    h5{
+        display: none !important;
+    }
+
+    .line{
+        margin-top: 30px;
+        margin-left: 121px;
+    }
+}
+
+span{
+    padding-left: 12px;
+    width: 102px;
+    height: 19px;
+    font-family: "Inter";
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0.01em;
+    text-align: left;
+}
+
+.main{
+    width: 360px;
+    margin-top: 100px;
+}
+
+h2{
+    font-family: "Inter";
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: 0.01em;
+    text-align: left;
+}
+
+h6{
+    margin-top: 8px;
+    margin-bottom: 56px;
+    font-family: "Inter";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+label{
+    margin-bottom: 8px;
+}
+
+.mail{
+    margin-bottom: 20px;
+    border: 1px solid #D0D5DD;
+    border-radius: 8px;
+}
+
+.mail input{
+    width: 330px;
+    height: 44px;
+    border: none;
+    outline: none; 
+}
+
+.d-flex{
+    margin-top: 20px;
+    margin-bottom: 32px;
+}
+
+button{
+    width: 360px;
+    margin-bottom: 16px;
+}
+
+.btn{
+    margin-bottom: 20px;
+    height: 44px;
+    border: 1px solid #D0D5DD;
+}
+
+img{
+    padding-top: 10px;
+}
+
+.form-check-label{
+    padding-right: 144px;
+    font-family: "Inter";
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.form-check a{
+    color: #5429FF;
+    font-family:  "Inter";
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    text-decoration: none;
+}
+
+.sign{
+    text-decoration: none;
+    color: #5429FF;
+}
+
+.rounded{
+   width: 768px;
+}
+
+h5{
+    margin-top: 80px;
+   margin-left: 40px;
+   color: #667085;
+}
+
+.line{
+    width: 134px;
+    height: 5px;
+    background-color: #344054;
+}
+
+
+
